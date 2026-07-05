@@ -36,16 +36,16 @@ mental states.
 ## Visualizations
 
 ### Label Distribution
-![Label Distribution](label_dist.png)
+![Label Distribution]([label_dist.png](https://github.com/mzhbr/mental-health-classifier/blob/main/Figure_4.png))
 
 ### Word Cloud — Trauma & Stress
-![Word Cloud](wordcloud.png)
+![Word Cloud]([wordcloud.png](https://github.com/mzhbr/mental-health-classifier/blob/main/Figure_2.png))
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix]([confusion_matrix.png](https://github.com/mzhbr/mental-health-classifier/blob/main/Figure_3.png))
 
 ### Top 20 Most Important Words
-![Feature Importance](feature_importance.png)
+![Feature Importance]([https://github.com/mzhbr/mental-health-classifier/blob/main/Figure_1.png](https://github.com/mzhbr/mental-health-classifier/blob/main/Figure_1.png))
 
 ## Key Finding
 
